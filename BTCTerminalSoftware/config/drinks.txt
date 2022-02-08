@@ -1,0 +1,2 @@
+americano,2.50,100
+capacino, 2.35, 90
